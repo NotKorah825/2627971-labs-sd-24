@@ -58,10 +58,11 @@ main{
 }
 
 img{
-    width: 595px;
+    width: 590px;
     height: 365px;
 }
 footer{
+    margin-top: 15px;
     width: 100%;
     height: 5vh;
     color: white;
